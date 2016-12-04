@@ -1,2 +1,3 @@
 # Students-management
-A simple GUI Application that manages a list of students in databese
+A simple GUI Application written in Java that manages a list of students.
+Libraries: Swing, AWT
